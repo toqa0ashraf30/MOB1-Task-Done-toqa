@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tasks" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+<!--    Light mode -->
+<!--    Screen Background if Light mode on-->
+    <Style name="SCREEN">
+        <item name="android:background">#FFF</item>
+    </Style>
+    <!--    Screen Background if Light mode on-->
+    <Style name="texttask">
+        <item name="android:textcolor">#0000</item>
+    </Style>
+<!-- texts background if Light mode on-->
+    <Style name="">
+        <item name="android:textCo;or"></item>
+    </Style>
+<!--    texts background  if Light mode on-->
+    <Style name="">
+        <item name="android:textCo;or"></item>
+    </Style>
+
+    <style name="Theme.Tasks" parent="Base.Theme.Tasks" />
+</resources>
